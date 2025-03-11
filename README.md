@@ -1,3 +1,1 @@
-Projeto Amigo Secreto G8
-
-Link do jogo: <file:///C:/Users/Meire/Downloads/challenge-amigo-secreto_pt-main/index.html>
+Projeto Amigo Secreto G8: para o jogo funcionar o usuário deve adicionar três nomes, após ele clica em "sortear" e o nome será apresentado.
